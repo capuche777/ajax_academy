@@ -1,0 +1,19 @@
+{
+  "name": "ajax_academy",
+  "version": "1.0.0",
+  "description": "ajax_academy",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/capuche777/ajax_academy.git"
+  },
+  "author": "Jeremias Enriquez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/capuche777/ajax_academy/issues"
+  },
+  "homepage": "https://github.com/capuche777/ajax_academy#readme"
+}
