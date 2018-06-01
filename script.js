@@ -1,5 +1,6 @@
-$('#load').on('click', function() {
-    var content = $('#content');
+var content = $('#content');
+
+setInterval(function(){
     $.ajax({
         url: 'file.txt',
         cache: false,
@@ -10,4 +11,4 @@ $('#load').on('click', function() {
             console.log('Something went wrong');
         }
     });
-});
+}, 1000);
